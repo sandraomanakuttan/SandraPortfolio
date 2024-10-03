@@ -57,7 +57,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Screenshots
 
-![Portfolio Home](./path/to/sandra.png)
+![Portfolio Home](sandra.png)
 *Caption: Homepage of the Portfolio Website.*
 
 !
