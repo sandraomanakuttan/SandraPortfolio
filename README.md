@@ -1,54 +1,81 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/P-Auxj7aNfQ?style=social)](https://youtu.be/P-Auxj7aNfQ)
+# Portfolio Website for Sandra Ko
 
-  <br />
-  <br />
+This is a portfolio website created for Sandra Ko, showcasing her skills, projects, and resume. It includes sections for front-end and back-end development services, a downloadable resume, and social media links for networking.
 
-  <h2 align="center">Personal Portfolio Website</h2>
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
 
-  A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## About
 
-  <a href="https://codewithsadee.github.io/pfolio/"><strong>➥ Live Demo</strong></a>
+This website serves as a personal portfolio to display Sandra Ko's work, including her web and app development skills, certifications, and featured projects.
 
-</div>
+## Features
+- Responsive design for optimal viewing on any device.
+- Includes sections for skills, certifications, and projects.
+- Downloadable resume feature.
+- Integrated social media icons with links to GitHub and LinkedIn.
+- Detailed information about provided services.
 
-<br />
+## Getting Started
 
-### Demo Screeshots
-
-![Pfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
+- A basic web server to host HTML and CSS files locally. You can use Python’s built-in server or any other simple server.
 
-Before you begin, ensure you have met the following requirements:
+### Installation
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+1. Clone the repo:
+    ```bash
+    git clone https://github.com/sandraomanakuttan/portfolio.git
+    ```
 
-### Run Locally
+2. Navigate to the project folder:
+    ```bash
+    cd portfolio
+    ```
 
-To run **Pfolio** locally, run this command on your git bash:
+3. Start a local server:
+    ```bash
+    python3 -m http.server
+    ```
 
-Linux and macOS:
+4. Visit `http://localhost:8000` in your browser to view the website.
 
-```bash
-sudo git clone https://github.com/codewithsadee/pfolio.git
-```
+## Usage
 
-Windows:
+- To view the website, open the `index.html` file in your preferred browser or use a local server to host it.
+- The "Download CV" button allows users to download the resume from `resume.pdf` located in the assets folder.
+- The "View Resume" button links to the `resume.html` page, which displays Sandra Ko's resume directly on the website.
 
-```bash
-git clone https://github.com/codewithsadee/pfolio.git
-```
+## Screenshots
 
-### Contact
+![Portfolio Home](./path/to/sandra.png)
+*Caption: Homepage of the Portfolio Website.*
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+!
 
-### License
+_**Note**: Replace the paths above with the actual paths to your screenshot files._
 
-This project is **free to use** and does not contains any license.
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (for interactivity)
+- Bootstrap (for responsiveness)
+- Python (for running a local server)
+- Ionicons (for social media icons)
+
+## Contact
+
+Sandra Ko – [LinkedIn](https://linkedin.com/in/sandra-k-o-b594b9278/) – [GitHub](https://github.com/sandraomanakuttan)
+
+Project Link: [Portfolio Website](https://github.com/sandraomanakuttan/portfolio)
+
